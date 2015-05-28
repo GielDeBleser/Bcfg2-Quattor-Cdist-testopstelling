@@ -1,0 +1,6 @@
+[aquilon]
+name=Quattor - aquilon
+baseurl=http://yum.quattor.org/aquilon/
+enabled=1
+gpgcheck=1
+gpgkey=http://yum.quattor.org/GPG/RPM-GPG-KEY-quattor-jrha
