@@ -1,2 +1,2 @@
-# Bcfg2-Quattor-Cdist-testopstelling
-Testopstelling voor zowel Bcfg2, Quattor als Cdist. 
+# Bcfg2-Quattor-Cdist
+Test-setup for Bcfg2, Quattor and Cdist. 
